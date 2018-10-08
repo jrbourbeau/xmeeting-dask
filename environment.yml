@@ -1,0 +1,11 @@
+name: xmeeting-dask
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - dask
+  - dask-ml
+  - pytables
+  - python-graphviz
+  - matplotlib
+  - jupyterlab
