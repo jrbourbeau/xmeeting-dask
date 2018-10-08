@@ -9,7 +9,7 @@ This repository contains the materials for my "Parallel Computing in Python with
 A Conda environment with the dependencies needed to run the notebook from this talk can be created with 
 
 ```terminal
-conda env create --name xmeeting-dask --file environment.yml
+conda env create --name xmeeting-dask --file binder/environment.yml
 ```
 
 Activate the Conda environment with 
