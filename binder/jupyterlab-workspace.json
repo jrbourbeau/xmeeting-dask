@@ -1,0 +1,7 @@
+{
+  "data": {
+    "dask-dashboard-launcher": {
+      "url": "DASK_DASHBOARD_URL"
+    },
+  },
+}
