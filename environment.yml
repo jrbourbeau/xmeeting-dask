@@ -5,7 +5,8 @@ dependencies:
   - python=3.6
   - dask
   - dask-ml
+  - jupyterlab
+  - matplotlib
+  - nodejs=8.9
   - pytables
   - python-graphviz
-  - matplotlib
-  - jupyterlab
