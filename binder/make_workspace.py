@@ -1,7 +1,7 @@
-# Adapted from https://github.com/dask/dask-examples
-
 import os, shutil
 from jupyterlab_launcher.workspaces_handler import _slug
+
+# Adapted from https://github.com/dask/dask-examples
 
 service_path = os.environ.get('JUPYTERHUB_SERVICE_PREFIX')
 home = os.environ.get('HOME')
