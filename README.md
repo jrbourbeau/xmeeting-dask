@@ -1,8 +1,8 @@
-# X-Meeting: Introduction to Dask
+# WIPAC X-Meeting: Parallel Computing with Dask
 
 This repository contains the materials for my "Parallel Computing in Python with Dask" talk at the WIPAC X-meeting. A interactive version of the notebook from this talk is available by clicking the "launch binder" button below:
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jrbourbeau/xmeeting-dask/add_binder?urlpath=lab/tree/introduction-to-dask.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jrbourbeau/xmeeting-dask/master?urlpath=lab/tree/introduction-to-dask.ipynb)
 
 ## Installation
 
